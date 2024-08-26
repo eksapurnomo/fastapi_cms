@@ -1,0 +1,7 @@
+{
+    "venvPath": "./",
+    "venv": "venv",
+    "python.analysis.extraPaths": ["./venv/Lib/site-packages"],
+    "reportMissingImports": true
+  }
+  
